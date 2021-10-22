@@ -12,7 +12,7 @@ const illustration = {
 
 const greeting = {
   username: "Isadora Crespo",
-  title: "Oie, meu nome é Isadora!",
+  title: "Oie, meu nome é Isadora",
   subTitle: emoji(
     "Jornalista pela UNICAP e mestranda em Design pela UFPE, pesquisando usabilidade, UX Design e Service Design em um contexto de e-government (governo eletrônico). Entusiasta da democratização do design, estou super interessada em ver como o design pode afetar positivamente a vida das pessoas."
   ),
