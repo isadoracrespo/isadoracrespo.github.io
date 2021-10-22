@@ -12,9 +12,9 @@ const illustration = {
 
 const greeting = {
   username: "Isadora Crespo",
-  title: "Oie, meu nome é Isadora!",
+  title: "Oie, meu nome é Isadora",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Jornalista pela UNICAP e mestranda em Design pela UFPE, pesquisando usabilidade, UX Design e Service Design em um contexto de e-government (governo eletrônico)."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
