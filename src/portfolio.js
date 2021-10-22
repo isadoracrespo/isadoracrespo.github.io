@@ -12,12 +12,12 @@ const illustration = {
 
 const greeting = {
   username: "Isadora Crespo",
-  title: "Oie, meu nome é Isadora",
+  title: "Oie, meu nome é Isadora!",
   subTitle: emoji(
-    "Jornalista pela UNICAP e mestranda em Design pela UFPE, pesquisando usabilidade, UX Design e Service Design em um contexto de e-government (governo eletrônico)."
+    "Jornalista pela UNICAP e mestranda em Design pela UFPE, pesquisando usabilidade, UX Design e Service Design em um contexto de e-government (governo eletrônico). Entusiasta da democratização do design, estou super interessada em ver como o design pode afetar positivamente a vida das pessoas."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1qDSGBVV3s3rt9clWHv6brUczWPOGaAAv/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -26,9 +26,11 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "isadora.crespo@ufpe.br",
-  gitlab: "https://gitlab.com/saadpasta",
-  behance: "https://www.behance.net/isadoracrespo",
+  gmail: "isadora.crespo@gmail.com",
+  gitlab: "empty",
+  facebook: "empty",
+  medium: "empty",
+  stackoverflow: "empty",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
